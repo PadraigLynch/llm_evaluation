@@ -6,7 +6,7 @@ import streamlit as st
 
 
 st.set_page_config(
-    page_title="LLM Production Evaluation Dashboard",
+    page_title="LLM Production Evaluation Dashboard - Patrick Lynch",
     page_icon="🤖",
     layout="wide",
 )
